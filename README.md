@@ -1,2 +1,2 @@
-# Environmental-Carbon
-emission credits
+# Global Environmental-Carbon
+Trading emission credits
